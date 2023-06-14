@@ -1,0 +1,25 @@
+.bg{
+    background: url('../../img/inicio.png') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.buttonIng{
+    width: 25vw;
+    height: 5vh;
+    margin-top: 78.5vh;
+    margin-left: -2vw;
+    background-color: #deec48;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgba(229, 224, 67, 0.651);
+    font-size: 1.5vw;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.buttonIng:hover{
+    background-color: #e0d14ef6;
+}
