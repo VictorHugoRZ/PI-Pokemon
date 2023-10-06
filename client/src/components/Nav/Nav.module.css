@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content: space-between;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px 0px rgba(226, 238, 123, 0.651);
+    background-color: rgba(37, 22, 4, 0.700);
     width: 100%;
     height: 100%;
     padding-top: 2vh;
@@ -22,11 +22,10 @@
     height: 7vh;
     margin-top: 4vh;
     margin-right: 8.9vw;
-    background-color: #85732b;
-    color: rgb(184, 184, 184);
+    background-color: rgb(184, 184, 184);
+    color: rgba(37, 22, 4, 0.616);
     border: none;
     border-radius: 5px;
-    box-shadow: 0px 0px 5px 0px rgba(255, 255, 255, 0.651);
     font-family: 'Verdana', sans-serif;
     font-size: 1.3rem;
     font-weight: bold;
@@ -36,4 +35,11 @@
 .btn:hover {
     color: white;
     background-color: #806d21;
+}
+
+.text {
+    color: rgba(255, 255, 255, 0.700);
+    margin-right: auto;
+    font-size: xx-large;
+
 }

@@ -10,6 +10,7 @@ const Nav = () => {
                 <div>
                     <img src={pokeball} alt="img not found" className={styles.img} /> 
                 </div>
+                <h2 className={styles.text}>Pokédex</h2>
                 <div>  
                     <Link to='/create'>
                         <button className={styles.btn}>New Pokemon</button>

@@ -18,11 +18,11 @@
     width: 30px;
     height: 30px;
     padding: 4px;
-    background-color: #9b8736d4;
+    background-color: rgba(255, 255, 255, 0.616);
 }
 
 .a {
-    color: #927f7f;
+    color: rgba(37, 22, 4, 0.616);
     font-family: 'Verdana', sans-serif;
     font-size: 1.2rem;
     font-weight: bold;
